@@ -2,7 +2,7 @@ window.settings = {
   // 站点标题
   title: 'V2Board',
   // API
-  host: 'https://dash.skicat.io',
+  host: 'https://portal.skicat.io',
   // 主题
   theme: {
     sidebar: 'light',
